@@ -9,6 +9,13 @@ display: flex;
 height: 100%;
 flex-direction: column;
 `,
+ContainerLoading: styled.div`
+display: flex;
+height: 70%;
+justify-content: center;
+align-items: center;
+font-size: 3vh;
+`,
 ContainerCard: styled.div`
 display: flex;
 height: 70%;
